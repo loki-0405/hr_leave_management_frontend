@@ -22,20 +22,21 @@ This is the frontend for the **HR Leave Management System**, built with **React*
 ## 📁 Project Structure
 
 ├───components
+
 │   ├───dashboard
-│   │
+
 │   ├───layout
-│   │
+
 │   └───ui
-│
+
 ├───hooks
-│
+
 ├───lib
-│
+
 └───pages
-    │
+
     ├───employee
-    │
+    
     └───hr
 
 ---
