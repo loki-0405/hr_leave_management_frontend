@@ -22,19 +22,13 @@ This is the frontend for the **HR Leave Management System**, built with **React*
 ## 📁 Project Structure
 
 ├───components
-
 │   ├───dashboard
-
 │   ├───layout
-
 │   └───ui
-
 ├───hooks
-
 ├───lib
-
 └───pages
-    ├───employee   
+    ├───employee
     └───hr
 
 ---
@@ -53,7 +47,7 @@ cd hr_leave_management_frontend
  ===========================
 Make sure you have Node.js ≥ 18 installed. Then:
 npm install
-# or
+or
 yarn install
 
 🚧 Development Server
@@ -61,7 +55,7 @@ yarn install
 Start the local development server:
 
 npm run dev
-# or
+or
 yarn dev
 Visit: http://localhost:5173
 
