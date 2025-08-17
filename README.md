@@ -7,7 +7,7 @@ This is the frontend for the **HR Leave Management System**, built with **React*
 ## 📦 Tech Stack
 ==================
 
-- ✅ Vite (blazing fast build tool)
+- ✅ Vite (blazing fast build tool) 
 - ✅ React 18
 - ✅ TypeScript
 - ✅ Tailwind CSS
@@ -22,13 +22,19 @@ This is the frontend for the **HR Leave Management System**, built with **React*
 ## 📁 Project Structure
 
 ├───components
+
 │   ├───dashboard
+
 │   ├───layout
+
 │   └───ui
+
 ├───hooks
+
 ├───lib
+
 └───pages
-    ├───employee
+    ├───employee   
     └───hr
 
 ---
